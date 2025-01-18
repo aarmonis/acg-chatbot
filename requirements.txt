@@ -1,0 +1,6 @@
+langchain
+unstructured
+chromadb
+pdfminer.six
+openai
+python-dotenv
